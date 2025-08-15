@@ -1,5 +1,8 @@
 com\mycompany\rico2b\add.class
+com\mycompany\rico2b\age$1.class
 com\mycompany\rico2b\add$3.class
+com\mycompany\rico2b\RSP$1.class
+com\mycompany\rico2b\RSP.class
 com\mycompany\rico2b\divide$5.class
 com\mycompany\rico2b\subtract$3.class
 com\mycompany\rico2b\subtract.class
@@ -7,9 +10,11 @@ com\mycompany\rico2b\subtract$2.class
 com\mycompany\rico2b\multiply$1.class
 com\mycompany\rico2b\multiply$4.class
 com\mycompany\rico2b\add$4.class
+com\mycompany\rico2b\RSP$3.class
 com\mycompany\rico2b\add$1.class
 com\mycompany\rico2b\divide$3.class
 com\mycompany\rico2b\subtract$5.class
+com\mycompany\rico2b\age$2.class
 com\mycompany\rico2b\add$2.class
 com\mycompany\rico2b\divide$4.class
 com\mycompany\rico2b\first.class
@@ -17,7 +22,9 @@ com\mycompany\rico2b\divide$1.class
 com\mycompany\rico2b\divide.class
 com\mycompany\rico2b\add$5.class
 com\mycompany\rico2b\divide$2.class
+com\mycompany\rico2b\RSP$2.class
 com\mycompany\rico2b\multiply$3.class
+com\mycompany\rico2b\age.class
 com\mycompany\rico2b\multiply$2.class
 com\mycompany\rico2b\subtract$4.class
 com\mycompany\rico2b\multiply.class
