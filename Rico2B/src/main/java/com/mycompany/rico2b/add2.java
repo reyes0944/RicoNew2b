@@ -27,32 +27,33 @@ public class add2 {
     
     if (a == 1)
         {
-            System.out.print ("You choose addition!");
+            System.out.println("You choose addition!");
             int sum = x + y;
-            System.out.print ("The answer is " + sum);
+            System.out.println("The answer is " + sum);
+            
         }
     
     else if (a == 2)
         {
-            System.out.print ("You choose subtraction!");
+            System.out.println ("You choose subtraction!");
             int diff = x - y;
-            System.out.print ("The answer is " + diff);
+            System.out.println ("The answer is " + diff);
         }
     
     else if (a == 3)
         {
-            System.out.print ("You choose multiplication!");
+            System.out.println ("You choose multiplication!");
             int prod = x * y;
-            System.out.print ("The answer is " + prod);
+            System.out.println ("The answer is " + prod);
         }
     
     else if (a == 4)
         {
-            System.out.print ("You choose division!");
+            System.out.println ("You choose division!");
             int quot = x / y;
-            System.out.print ("The answer is " + quot);
+            System.out.println ("The answer is " + quot);
         }
     else
-            System.out.print ("Invalid input!");
+            System.out.println ("Invalid input!");
     }
 }
