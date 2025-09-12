@@ -21,8 +21,8 @@ public class cafeteria {
             System.out.println("\nCAFETERIA");
             System.out.println("Menu");
             System.out.println("[Snacks]");
-            System.out.println("[1] - Hotdog [25.00]");
-            System.out.println("[2] - Siomai [14.00]");
+            System.out.println("[1] - kwek kwek [35.00]");
+            System.out.println("[2] - fried Siomai [20.00]");
             System.out.println("[0] - Exit");
             System.out.println();
 
@@ -30,7 +30,7 @@ public class cafeteria {
             int snacks = input.nextInt();
 
             if (snacks == 1) {
-                System.out.println("Hotdog price is 25 pesos");
+                System.out.println("kwekwek price is 35 pesos");
                 System.out.print("Enter Quantity: ");
                 int quan = input.nextInt();
                 double subtotal = quan * hotdog;
@@ -47,7 +47,7 @@ public class cafeteria {
 
                 System.out.println("Change : " + change);
             } else if (snacks == 2) {
-                System.out.println("Siomai price is 14 pesos");
+                System.out.println("Fried siomai price is 20 pesos");
                 System.out.print("Enter Quantity: ");
                 int quan = input.nextInt();
                 double subtotal = quan * siomai;
